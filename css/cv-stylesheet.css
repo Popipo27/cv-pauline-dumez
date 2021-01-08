@@ -1,0 +1,92 @@
+/*COMMON*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', Arial, sans-serif;
+}
+
+p{
+    color:#242752;
+    font-size:1.2em;
+}
+
+.mainColor {
+    color: #e32d4d;
+}
+
+.secondaryTextColor {
+    color:white;
+}
+
+
+/*PINK BANNER*/
+
+#pinkBan {
+    background-color: #e32d4d;
+}
+
+/*PHOTO*/
+
+#PDphoto {
+    width:270px;
+}
+
+
+/*INTRO*/
+
+#introducingPauline h1 {
+    font-weight:700;
+    margin:0;
+}
+
+#introducingPauline h2 {
+    font-weight:100;
+}
+
+#introducingPauline p {
+    color: #591321;
+}
+
+/*TITLES*/
+
+.cvTitle {
+    background-color:#ffd774;
+    font-weight:bold;
+}
+
+
+/**SKILLS**/
+.skills {
+    color:#242752;
+}
+
+.skills h3 {
+    font-size:1.5em;
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+/*CAREER EXPERIENCES*/
+
+#careerExperiences span {
+    font-weight:bold;
+}
+
+
+/**CAREER TIMELINE**/
+
+.year {
+    border-left:4px solid;
+}
+
+.year h3 {
+    font-weight:bold;
+    font-size:1.8em;
+}
+
+
+/**FOOTER**/
+.copyright {
+    font-size:.9em;
+}
